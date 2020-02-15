@@ -3,19 +3,14 @@
 
 <h2><strong> Técnologias envolvidas</strong></h2>
 <ol>
-    <li> Python 3x </li>
+    <li><a href="https://www.python.org/download/releases/3.0/">Python 3x </a></li>
     <li> Flask 1.1.1 </li>
     <li> HTML 5 </li>
-    <li>SQLAlchemy</li>
+    <li><a href="https://www.sqlalchemy.org/">SQLAlchemy</a></li>
 </ol>
 
 <em>
-<label>Documentação do Flask </label><br/>
+<a href="https://flask-ptbr.readthedocs.io/en/latest/">Documentação do Flask </a><br/>
 
 
-
-
-
-
-
-<strong>Logo mais teremos novas atualizações.</strong>
+<label>Logo mais teremos novas atualizações.</label>
